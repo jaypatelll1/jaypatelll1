@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React native**
 
-- 👨‍💻 All of my projects are available at [https://jaypateldg.netlify.app/](https://jaypateldg.netlify.app/)
+- 👨‍💻 Portfolio [https://jaypateldg.netlify.app/](https://jaypateldg.netlify.app/)
 
 - 📫 How to reach me **pateljay8886@gmail.com**
 
