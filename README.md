@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ChatApp<br><br>🌱 I’m currently learning React native<br><br>👨‍💻 Portfolio https://jaypateldg.netlify.app/<br><br>📫 How to reach me pateljay8886@gmail.com
+🔭 I’m currently working on ChatApp<br><br>🌱 I’m currently learning React native<br><br>👨‍💻 Portfolio https://jaypateldg.xyz/<br><br>📫 How to reach me pateljay8886@gmail.com
 
 
 ## 🌐 Socials:
